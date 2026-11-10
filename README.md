@@ -194,22 +194,3 @@ streamlit run Home.py --server.port=8501
 Open **`http://localhost:8501`** in your browser.
 
 ---
-
-## 📤 Pushing to Your GitHub
-
-To push this project to your GitHub account:
-
-```bash
-# 1. Initialize git and stage all files
-git init -b main
-git add .
-
-# 2. Make initial commit
-git commit -m "feat: Initial commit of ISL Player Analytics Platform (2026/27 season)"
-
-# 3. Link your remote GitHub repository
-git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-
-# 4. Push to GitHub
-git push -u origin main
-```
