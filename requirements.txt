@@ -1,0 +1,15 @@
+# Core Web Framework
+streamlit>=1.60.0
+
+# Database & Data Manipulation
+duckdb>=1.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Football Pitch & Radar Plots
+mplsoccer>=1.8.0
+matplotlib>=3.8.0
+
+# Interactive Visualizations
+plotly>=5.20.0
