@@ -168,29 +168,4 @@ $$\text{Fit Score} = \sum_{m=1}^M w_m \cdot \text{Percentile}(x_m), \quad \sum_{
 
 ---
 
-## 🚀 Quickstart & Installation
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
-```
-
-### 2. Set Up Python Virtual Environment
-```bash
-python3 -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-```
-
-### 3. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Launch the Dashboard
-```bash
-streamlit run Home.py --server.port=8501
-```
-Open **`http://localhost:8501`** in your browser.
-
----
+#
